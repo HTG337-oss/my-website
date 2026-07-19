@@ -1,7 +1,5 @@
-# My Site
-Just when I was making this
-I still need to study, don't get angry at me for doing this in the middle of maths.
-
+#Whatever do I do
+This is the edited version, hello!!
 
 ## Preview
 
